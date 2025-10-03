@@ -25,10 +25,10 @@ The platform provides tools for exploring genomic data, protein pathways and cel
 
 | Repository | Description |
 |------------|-------------|
-| [cdk-ascella-dev](https://github.com/igvf-dacc/cdk-ascella-dev) | Repo for internal infrastructure in igvf-dev account |
-| [ascella-ui](https://github.com/igvf-dacc/igvf-ui) | The Next.js-based UI portion of  that works with ascellad |
-| [ascellad](https://github.com/igvf-dacc/igvfd) | Metadata database for ascella project |
-| [shared-infrastructure](https://github.com/igvf-dacc/shared-infrastructure) | Reusable or common CDK pieces |
+| [cdk-ascella-dev](https://github.com/ASCELLA-KB/cdk-ascella-dev) | Repo for internal infrastructure in igvf-dev account |
+| [ascella-ui](https://github.com/ASCELLA-KB/igvf-ui) | The Next.js-based UI portion of  that works with ascellad |
+| [ascellad](https://github.com/ASCELLA-KB/ascella) | Metadata database for ascella project |
+| [shared-infrastructure](https://github.com/ASCELLA-KB/shared-infrastructure) | Reusable or common CDK pieces |
 
 ## Data Statistics
 
